@@ -1,0 +1,41 @@
+﻿CATEGORÍA;NOMBRE;DEFINICION
+PATRONALES;Confebask;Defienden los intereses de las empresas. La madre de las tres patronales de provincia. 
+PATRONALES;Adegi;Defienden los intereses de las empresas. Patronal de Gipuzkoa. 
+PATRONALES;Cebek;Defienden los intereses de las empresas. Patronal de Bizkaia.
+PATRONALES;SEA;Defienden los intereses de las empresas. Patronal de Álava.
+AGENCIAS DESARROLLO;SPRI;Pone la estrategia y gran parte del dinero de los BIC, y los BIC son los brazos ejecutores sobre los terrenos. 
+AGENCIAS DESARROLLO;SPRILUR;SPRI también se encarga de gestionar polígonos industriales y pabellones. Si una empresa grande (como Mercedes o una multinacional) quiere venir a Euskadi y necesita terrenos, habla con SPRI (a través de su sociedad Sprilur).
+AGENCIAS DESARROLLO;Basque Trade & Investment;Las Cámaras te ayudan con misiones comerciales puntuales o papeleo. SPRI tiene oficinas propias del Gobierno Vasco en el extranjero (en México, Alemania, China, USA, etc.) para ayudar a las empresas vascas a implantarse allí permanentemente.
+AGENCIAS DESARROLLO;BEAZ;"En Bizkaia, BEAZ es la entidad que gestiona el BIC. Es decir, BEAZ es la organización (el ""jefe"") y el BIC es la incubadora (el edificio/programa)."
+AGENCIAS DESARROLLO;BIC Gipuzkoa;Incubadoras físicas para startups de Gipuzkoa.El edificio y el ecosistema donde nacen las startups tecnológicas. 
+AGENCIAS DESARROLLO;BIC Bizkaia;Incubadoras físicas para startups de Bizkaia.El edificio y el ecosistema donde nacen las startups tecnológicas.
+AGENCIAS DESARROLLO;BIC Alava;Incubadoras físicas para startups de Alava.El edificio y el ecosistema donde nacen las startups tecnológicas.
+AGENCIAS DESARROLLO;Innobasque;"Innobasque es una asociación privada sin ánimo de lucro que representa un modelo de colaboración público-privada; es un punto de encuentro donde el Gobierno se sienta en la misma mesa con universidades y grandes empresas (como Iberdrola o Petronor) para consensuar estrategias."
+AGENCIAS DESARROLLO;Eusko Ganberak;El pasaporte para vender fuera y escuela de negocios. Engloba las cámaras de Gipuzkoa, Bizkaia, Alaba. 
+AGENCIAS DESARROLLO;Camara de Gipuzkoa;El pasaporte para vender fuera y escuela de negocios. Gipuzkoa. 
+AGENCIAS DESARROLLO;Camara de Bilbao;El pasaporte para vender fuera y escuela de negocios. Bizkaia. 
+AGENCIAS DESARROLLO;Camara de Alaba;El pasaporte para vender fuera y escuela de negocios. Alaba. 
+AGENCIAS PUBLICAS DE TALENTO;Bizkaia Talent;Headhunting público y gestión del retorno al país vasco/bizkaia.
+AGENCIAS PUBLICAS DE TALENTO;Gipuzkoa Talent;Headhunting público y gestión del retorno al país vasco/gipuzkoa.
+AGENCIAS PUBLICAS DE TALENTO;Talent UP (Alaba);Headhunting público y gestión del retorno al país vasco/alaba.
+AGENCIAS PUBLICAS DE TALENTO;Ikerbasque;Agencia para fichar científicos (PhD) de élite.
+CENTROS TECNOLOGICOS;Tecnalia;El gigante (más de 1.500 personas). Hacen de todo. Es como una multinacional de la investigación.
+CENTROS TECNOLOGICOS;Ikerlan;Muy industrial, electrónica y energía. Cooperativa (ambiente de trabajo distinto, muy arraigado al valle de Mondragón).
+CENTROS TECNOLOGICOS;CEIT;Fábrica de spin-offs industriales 'Deep Tech'.Centro Univ. Navarra. Ciencia profunda (Materiales/Ferroviario).
+CENTROS TECNOLOGICOS;Cidetec;Los reyes de la química y las baterías. Especializados en Almacenamiento de Energía (clave para el coche eléctrico en MUBIL), Ingeniería de Superficies y Nanomedicina. San Sebastián
+CENTROS TECNOLOGICOS;Vicomtech;Software, IA, Visión Artificial. San Sebastián. Muy ágiles creando spin-offs.
+CENTROS TECNOLOGICOS;Tekniker;"Expertos en ""cosas que se mueven con precisión"" (mecatrónica, fabricación). Eibar."
+CENTROS TECNOLOGICOS;Ideko;Máquina-herramienta pura y dura. Elgoibar. Muy unido al fabricante Danobat.
+CENTROS TECNOLOGICOS;Azti;El mar y la comida (Pesca, oceanografía, alimentación).
+CLUSTERS SECTORIALES;GAIA;El Clúster de las Tecnologías de la Información y la Electrónica de Euskadi. Su obsesión actual es acelerar la transformación digital de la industria, integrando la Inteligencia Artificial, la Ciberseguridad y el uso de los Datos para hacer a las empresas vascas más competitivas.
+CLUSTERS SECTORIALES;ACICAE;El Clúster de la Industria de la Automoción de Euskadi. Su obsesión actual es ayudar a las empresas vascas a pasar del coche de combustión al coche eléctrico y conectado.
+CLUSTERS SECTORIALES;Cluster de Energía;La asociación de las grandes empresas energéticas. Se centran en cadenas de valor mundiales: Energía Eólica (hacer molinos), redes eléctricas inteligentes (Smart Grids) y ahora muy fuerte en Hidrógeno.
+CLUSTERS SECTORIALES;ACLIMA;El Clúster de las Ecoindustrias o industrias del Medio Ambiente. Agrupan a empresas que gestionan residuos, reciclaje, tratamiento de aguas y suelos contaminados. Su foco es la Economía Circular (convertir basura en recursos).
+CLUSTERS SECTORIALES;SIDEREX;"El Clúster del Acero. Ayudan a las empresas que fabrican acero y a las que diseñan la maquinaria para procesarlo a vender en el extranjero (internacionalización). Buscan hacer un ""acero verde"" (con menos emisiones)."
+CLUSTERS SECTORIALES;AFM;El Clúster de la Máquina-Herramienta. Es vital en Gipuzkoa. Son los que fabrican las máquinas que a su vez fabrican cosas. Representan a la industria de la fabricación avanzada y robótica. Son los organizadores de la BIEMH (la feria industrial más grande de España, en el BEC). Son la base de la industria vasca.
+CLUSTERS SECTORIALES;Basque health cluster;El Clúster de las Biociencias y la Salud. Agrupan a empresas biotech, farmacéuticas, dispositivos médicos y salud digital. Buscan convertir la ciencia de los hospitales y centros de investigación en productos vendibles.
+CLUSTERS SECTORIALES;UniportBilbao;El Clúster del Puerto de Bilbao. No es solo el puerto físico, sino toda la comunidad logística: navieras, aduanas, transporte por camión y tren. Su misión es vender el Puerto de Bilbao como la mejor puerta de entrada y salida de mercancías del sur de Europa.
+CENTROS DE EXCELENCIA;BAIC;El Centro Vasco de Inteligencia Artificial. Su obsesión es democratizar la IA en la industria vasca, actuando como conector entre los desarrolladores de tecnología (oferta) y las empresas industriales (demanda) para acelerar su implantación real y competitiva.
+CENTROS DE EXCELENCIA;BCSC;"El Centro Vasco de Ciberseguridad. Su obsesión es ser el ""escudo digital"" de Euskadi, protegiendo a las empresas y a la industria 4.0 frente a ciberataques, gestionando incidentes críticos y promoviendo una cultura de seguridad preventiva."
+CENTROS DE EXCELENCIA;MUBIL;El Polo de Movilidad Inteligente y Sostenible con sede en Gipuzkoa. Su obsesión es convertir el territorio en un laboratorio industrial de vanguardia para el coche eléctrico, centrando sus esfuerzos en el almacenamiento de energía (baterías), la infraestructura de carga y la conducción autónoma.
+OTROS;Bidegi;La Agencia Foral encargada de la gestión de las autopistas de Gipuzkoa (AP-8 y AP-1). Su obsesión actual es garantizar la fluidez y seguridad en este corredor clave europeo, impulsando la digitalización de la infraestructura y el sistema de descuentos sociales (Abiatu) para el ciudadano.
